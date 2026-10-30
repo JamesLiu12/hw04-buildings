@@ -3,8 +3,10 @@
 I made a Houdini HDA for stylized medieval houses. The same tool generates both the taller three-story house and the longer two-story house shown below.
 
 <!-- Building Image -->
+<img width="1280" height="720" alt="building" src="https://github.com/user-attachments/assets/8a747457-bae7-4f4c-95de-14af27306c10" />
 
 <!-- Tool Demo -->
+https://github.com/user-attachments/assets/05404f56-3dd2-4b6d-b612-2288d4e8dd51
 
 ### Tool Controls
 
@@ -26,10 +28,12 @@ I focused on the doors, windows, balconies, wooden beams, and posts. To keep the
 **Reference 1:** [Stylized Market Town Medieval Building by 3D Tudor](https://blenderartists.org/t/blender-4-stylized-market-town-medieval-building-3d-model/1492321).
 
 <!-- Reference 1 Image -->
+<img width="1035" height="582" alt="building1" src="https://github.com/user-attachments/assets/a45c06ca-3b71-4138-b623-63e7f72f0b24" />
 
 **Reference 2:** [House 7 of Market Town part 2](https://www.kickstarter.com/projects/creatorofthestl/market-town-part-2-28-mm-stl).
 
 <!-- Reference 2 Image -->
+<img width="1009" height="565" alt="building2" src="https://github.com/user-attachments/assets/4ea18f96-5729-4d82-820b-68ba513f63ab" />
 
 ## Project Overview
 In this homework, you will continue creating procedural buildings based on the work you did in lab 06. The tutorial used for that lab and this homework can be found at [this URL](https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini).
